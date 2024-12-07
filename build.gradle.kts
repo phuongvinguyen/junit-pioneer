@@ -84,7 +84,7 @@ spotless {
 }
 
 checkstyle {
-	toolVersion = "10.18.2"
+	toolVersion = "10.20.2"
 	configDirectory.set(rootProject.file(".infra/checkstyle"))
 }
 
