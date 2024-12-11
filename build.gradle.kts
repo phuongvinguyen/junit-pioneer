@@ -6,7 +6,7 @@ plugins {
 	signing
 	id("com.diffplug.spotless") version "6.25.0"
 	id("at.zierler.yamlvalidator") version "1.5.0"
-	id("org.sonarqube") version "5.1.0.4882"
+	id("org.sonarqube") version "6.0.1.5171"
 	id("org.shipkit.shipkit-changelog") version "2.0.1"
 	id("org.shipkit.shipkit-github-release") version "2.0.1"
 	id("com.github.ben-manes.versions") version "0.51.0"
