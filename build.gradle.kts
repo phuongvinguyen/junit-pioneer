@@ -4,7 +4,7 @@ plugins {
 	checkstyle
 	`maven-publish`
 	signing
-	id("com.diffplug.spotless") version "6.25.0"
+	id("com.diffplug.spotless") version "7.0.2"
 	id("at.zierler.yamlvalidator") version "1.5.0"
 	id("org.sonarqube") version "5.1.0.4882"
 	id("org.shipkit.shipkit-changelog") version "2.0.1"
