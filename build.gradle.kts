@@ -9,7 +9,7 @@ plugins {
 	id("org.sonarqube") version "5.1.0.4882"
 	id("org.shipkit.shipkit-changelog") version "2.0.1"
 	id("org.shipkit.shipkit-github-release") version "2.0.1"
-	id("com.github.ben-manes.versions") version "0.51.0"
+	id("com.github.ben-manes.versions") version "0.52.0"
 	id("io.github.gradle-nexus.publish-plugin") version "2.0.0"
 	id("org.gradlex.extra-java-module-info") version "1.9"
 }
