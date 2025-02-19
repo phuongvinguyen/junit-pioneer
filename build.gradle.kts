@@ -67,7 +67,7 @@ dependencies {
 	testImplementation(group = "org.assertj", name = "assertj-core", version = assertjVersion)
 	testImplementation(group = "org.mockito", name = "mockito-core", version = "5.14.1")
 	testImplementation(group = "com.google.jimfs", name = "jimfs", version = jimfsVersion)
-	testImplementation(group = "nl.jqno.equalsverifier", name = "equalsverifier", version = "3.17.1")
+	testImplementation(group = "nl.jqno.equalsverifier", name = "equalsverifier", version = "3.19.1")
 }
 
 spotless {
